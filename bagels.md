@@ -1,29 +1,29 @@
 Starter
 =======
-241 g bread flour
-227 mL water (94.2% hydration)
-a pinch of instant yeast
+- 241 g bread flour
+- 227 mL water (94.2% hydration)
+- a pinch of instant yeast
 
 Dough
 =====
-All of the starter
-298 g bread flour
-1½ tsp instant yeast
-2 tsp salt
-1 tbsp malted milk powder
-113 mL water (63.1% hydration)
+- All of the starter
+- 298 g bread flour
+- 1½ tsp instant yeast
+- 2 tsp salt
+- 1 tbsp malted milk powder
+- 113 mL water (63.1% hydration)
 
 Optional ingredients
 ====================
-1 cup fruits or nuts (optional)
-4 egg yolks (and only add 57 mL water to the dough because each yolk has about 
-14 mL water)
+- 1 cup fruits or nuts (optional)
+- 4 egg yolks (and only add 57 mL water to the dough because each yolk has 
+  about 14 mL water)
 
 Water Bath
 ==========
-8 cups water
-2 tbsp malted milk powder
-1 tbsp white sugar
+- 8 cups water
+- 2 tbsp malted milk powder
+- 1 tbsp white sugar
 
 Recipe
 ======
@@ -135,6 +135,6 @@ Questions
 
 References
 ==========
-http://www.kingarthurflour.com/recipes/chewy-bagels-recipe
-http://www.kingarthurflour.com/recipes/bagels-recipe
-http://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/
+- http://www.kingarthurflour.com/recipes/chewy-bagels-recipe
+- http://www.kingarthurflour.com/recipes/bagels-recipe
+- http://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/
