@@ -1,43 +1,43 @@
 Soup ingredients
 ================
-2-3 pounds pork shoulder roast (or butt)
-3 cups low sodium chicken broth
-1 cup water
-1/4 cup low sodium soy sauce
-1/4 cup rice vinegar
-2 tbsp fish sauce
-2 tbsp Thai red curry paste
-1 tbsp fresh ginger
-1 tbsp sambal oelek (or to taste)
-The juice of 1 lime
-1 tbsp Chinese five spice
-1 tsp black pepper
-1/4 cup brown sugar
-ramen noodles
+- 2-3 pounds pork shoulder roast (or butt)
+- 3 cups low sodium chicken broth
+- 1 cup water
+- 1/4 cup low sodium soy sauce
+- 1/4 cup rice vinegar
+- 2 tbsp fish sauce
+- 2 tbsp Thai red curry paste
+- 1 tbsp fresh ginger
+- 1 tbsp sambal oelek (or to taste)
+- The juice of 1 lime
+- 1 tbsp Chinese five spice
+- 1 tsp black pepper
+- 1/4 cup brown sugar
+- ramen noodles
 
 Topping ingredients
 ===================
-2 cups shitake mushrooms (chopped)
-1 carrot (grated)
-1 jalapeno (sliced)
-1 bunch of green onions (chopped)
-4 eggs (hard boiled, soft boiled, or fried)
+- 2 cups shitake mushrooms (chopped)
+- 1 carrot (grated)
+- 1 jalapeno (sliced)
+- 1 bunch of green onions (chopped)
+- 4 eggs (hard boiled, soft boiled, or fried)
 
 Roasted squash ingredients
 ==========================
-1 medium acorn squash, seeded and diced
-2 tbsp coconut oil, melted
-1 tbsp curry powder
-1 tbsp white miso paste
-1 tbsp brown sugar
-pepper, to taste
+- 1 medium acorn squash, seeded and diced
+- 2 tbsp coconut oil, melted
+- 1 tbsp curry powder
+- 1 tbsp white miso paste
+- 1 tbsp brown sugar
+- pepper, to taste
 
 Pork marinade ingredients
 =========================
-1 tbsp sesame oil
-2 tbsp low sodium soy sauce
-2 tbsp rice vinegar
-1 tbsp brown sugar
+- 1 tbsp sesame oil
+- 2 tbsp low sodium soy sauce
+- 2 tbsp rice vinegar
+- 1 tbsp brown sugar
 
 Instructions
 ============
@@ -45,7 +45,7 @@ Instructions
    (1/4 cup), fish sauce, curry paste, ginger, sambal oelek, lime juice, 
    five-spice, black pepper, and brown sugar (1/4 cup) in the bowl of a 
    crockpot, then add the pork.
-   
+
 2. Cook on low for 7-8 hours.
 
 3. About 40 minutes before you are ready to eat, get ready to roast the squash 
