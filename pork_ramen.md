@@ -1,8 +1,7 @@
 Soup ingredients
 ================
 - 2-3 pounds pork shoulder roast (or butt)
-- 3 cups low sodium chicken broth
-- 1 cup water
+- 4 cups unsalted chicken cooking stock (110 mg sodium/cup)
 - 1/4 cup low sodium soy sauce
 - 1/4 cup rice vinegar
 - 2 tbsp fish sauce
@@ -41,10 +40,10 @@ Pork marinade ingredients
 
 Instructions
 ============
-1. Mix together the chicken broth, water, soy sauce (1/4 cup), rice vinegar 
-   (1/4 cup), fish sauce, curry paste, ginger, sambal oelek, lime juice, 
-   five-spice, black pepper, and brown sugar (1/4 cup) in the bowl of a 
-   crockpot, then add the pork.
+1. Mix together the chicken stock, soy sauce (1/4 cup), rice vinegar (1/4 cup), 
+   fish sauce, curry paste, ginger, sambal oelek, lime juice, five-spice, black 
+   pepper, and brown sugar (1/4 cup) in the bowl of a crockpot, then add the 
+   pork.
 
 2. Cook on low for 7-8 hours.
 
