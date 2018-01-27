@@ -27,7 +27,7 @@ Roasted squash ingredients
 - 1 medium acorn squash, seeded and diced
 - 2 tbsp coconut oil, melted
 - 1 tbsp curry powder
-- 1 tbsp white miso paste
+- 1 tbsp white miso paste (or 2 tsp soy sauce)
 - 1 tbsp brown sugar
 - pepper, to taste
 
@@ -72,3 +72,15 @@ Instructions
    Place each serving of noodles in its own bowl, ladle the broth over the 
    noodles, then top with caramelized pork, curry roasted acorn squash, fried 
    egg, and any vegetables you want.
+
+Notes
+=====
+1. I made this recipe in Fitzy's slow cooker by doubling the amount of broth 
+   and using a 4 lb pork shoulder (with bone).  After 7h, the pork was not 
+   really cooked.  Most of it was still too tough to pull, and some of it still 
+   looked raw.  I think the problem was that the surface area to volume ratio 
+   of the pork shoulder changed when I doubled the recipe.  Next time I make 
+   ramen in Fitzy's slow cooker, I'll cut the pork into smaller pieces to help 
+   ensure it all gets cooked.
+
+   And in general, I think ~10 h is better than ~8.

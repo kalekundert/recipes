@@ -18,8 +18,8 @@ Recipe
    ingredients are well-incorporated. Set this mixture aside in a warm place, 
    covered, and let rise for 16-24 hours.
 
-2. Mix the dough ingredients in a stand mixer until the dough is cohesive and 
-   elastic (but not necessarily smooth), about 10 min.  
+2. Mix the dough ingredients in a stand mixer until the dough passes the 
+   window-pane test, about 10 min.
 
 3. Cover the dough and let it rise in a warm place for 2-3 hours, gently 
    performing a drop-hook fold (mix with the dough hook for a few seconds, flip 

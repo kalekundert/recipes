@@ -15,7 +15,7 @@ the explanations I could find, and comment on how much sense they make to me:
    get more yeast growth by adding the yeast in the beginning, and you could 
    always just add sugar (or maybe less salt) to make the yeast grow faster.
 
-2. Autolyse allows time for proteases to act of gluten.
+2. Autolyse allows time for proteases to act on gluten.
 
    There are proteases in flour, so this is undoubtedly true.  However, it is 
    commonly claimed that these proteases help form the gluten network, and that 
@@ -34,7 +34,16 @@ the explanations I could find, and comment on how much sense they make to me:
    dough easier to knead.
 
    This seems reasonable to me, although I don't think this will affect the 
-   flavor.
+   flavor.  To be a little more specific, maybe I'd say that the autolyse is 
+   allowing the gluten some time to denature on its own.
+
+Here are some explanations for leaving out they salt and yeast.
+
+1. Salt reduces the amount of water available for hydrating the gluten and the 
+   starch.
+
+2. Yeast will consume sugar, but any gas they produce will be pounded out 
+   during kneading.
 
 Another thing worth noting is that some people claim you can add the yeast with 
 the flour and the water.  At least according to this blog [1], it doesn't make 

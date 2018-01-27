@@ -30,36 +30,45 @@ Recipe
 1. Prepare the starter in a stand mixer bowl, then cover and let grow overnight 
    at room temperature.
 
-2. Combine the dough ingredients in a stand mixer on medium-low speed for 10 
-   min.  Expect the dough to be firm enough to hold its shape when the mixer is 
-   stopped.  It should also pass the "windowpane" test.
+2. Combine all the dough ingredients except the salt in the bowl of a stand 
+   mixer.  Cover and let rest for 20-30 min to autolyse.
 
-3. Work in any fruits or nuts you want.  Let dried fruits rehydrate in warm 
+3. Work the salt into the dough, then knead for 10 min.  Expect the dough to be 
+   firm enough to hold its shape when the mixer is stopped.  It should also 
+   pass the "windowpane" test.
+
+4. Work in any fruits or nuts you want.  Let dried fruits rehydrate in warm 
    water for 5 min so they won't take moisture out of the dough.
 
-4. Let the dough rise in a covered, lightly greased bowl for 60-90 minutes.  
+5. Let the dough rise in a covered, lightly greased bowl for 60-90 minutes.  
    The dough should be noticeably puffy, but not necessarily doubled in size.
 
-5. Punch the dough down, divide it into 8 ≈110 g pieces, shape each piece into 
-   a smooth ball, and place them on a greased baking sheet.
+6. Punch the dough down, transfer it to a very lightly floured surface, divide 
+   it into 8 ≈110 g pieces, shape each piece into a smooth ball, and place them 
+   on a greased baking sheet.
 
-6. Cover the balls and let them rise for 30 min.  Expect them to puff up 
+7. Cover the balls and let them rise for 30 min.  Expect them to puff up 
    slightly.
 
-7. Poke a hole in the center of each ball, then briefly twirl it around your 
+8. Poke a hole in the center of each ball, then briefly twirl it around your 
    finger until the hole is about 1.5" in diameter.
 
-8. Cover the bagels and let them rise for 45 min.
+9. Cover the bagels and let them rise for 45 min.
 
-9. Mix the ingredients for the water bath in a large pot and bring it to a 
-   boil.  Also preheat the oven to 400°F.
+10. Mix the ingredients for the water bath in a large pot and bring it to a 
+    boil.  Also preheat the oven to 400°F.
 
-10. Place each bagel, one at a time if necessary, in the boiling water.  They 
+11. Place each bagel, one at a time if necessary, in the boiling water.  They 
     should float to the top after a few seconds.  Boil one side 2 min, then 
     flip over and boil the other side for another 2 min.
 
-11. Bake the bagels for 20-25 min.  Flip them over after 15 minutes to help 
+12. Bake the bagels for 20-25 min.  Flip them over after 15 minutes to help 
     them stay round.
+
+Notes
+=====
+- Overproofing the bagels (i.e. 1h15 instead of 45 min) causes them to be 
+  flatter.
 
 Questions
 =========

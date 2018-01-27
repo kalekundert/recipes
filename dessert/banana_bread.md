@@ -1,7 +1,7 @@
 Banana Syrup
 ============
-- 340g overripe bananas
-- 210g sugar
+- 340 g overripe bananas (3-4 bananas)
+- 210 g sugar (1 cup)
 
 Combine these two ingredients in a small bowl.  Use a potato masher (or a fork)
 to mash the bananas until all of the sugar has dissolved.  Try to get rid of as
@@ -9,9 +9,9 @@ many big chunks of banana as possible, but you won't get all of them.
 
 Dry Ingredients
 ===============
-- 255g flour
+- 255 g flour (2 cups)
 - 1 tsp baking soda
-- 1 tsp salt
+- 1 tsp salt 
 
 Wet Ingredients
 ===============

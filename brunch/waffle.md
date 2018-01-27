@@ -4,8 +4,8 @@ Waffle Recipe
 Ingredients
 -----------
 - 270g all-purpose flour
-- 6g baking powder
-- 6g salt
+- 6g baking powder (2 tsp?)
+- 6g salt (½ tsp)
 
 - 1/2 stick unsalted butter
 - 3 large eggs
@@ -22,7 +22,8 @@ so water-soluble.  Combine the wet and dry mixtures, along with any extra
 ingredients such as chocolate chips or blueberries.  Mix as little as possible;
 the goal is to get most of the flour wet, not to get rid of the lumps.
 
-Ladle some of the batter onto the waffle iron and you're good to go!
+Ladle some of the batter onto the waffle iron and you're good to go!  Six 
+waffles is usually the right amount for me.
 
 Dehydrated Milk
 ===============

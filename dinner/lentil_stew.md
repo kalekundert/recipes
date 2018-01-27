@@ -2,7 +2,7 @@ Ingredients
 ===========
 1 tbsp olive oil
 1 onion, finely chopped
-1 celery stock, chopped (substitute: 1 red/green pepper)
+1 celery stalk, chopped (substitute: 1 red/green pepper)
 2 carrots, chopped
 1 tsp dried thyme
 1 tsp dried oregano
