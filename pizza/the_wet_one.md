@@ -1,9 +1,9 @@
 Ingredients
 ===========
-500 g all-purpose flour (125 g per pizza)
-1 tbsp salt (4%)
-1/4 tsp dry yeast
-350 mL water (70%)
+- 500 g all-purpose flour (125 g per pizza)
+- 1 tbsp salt (4%)
+- ¼ tsp dry yeast
+- 350 mL water (70%)
 
 Recipe
 ======
