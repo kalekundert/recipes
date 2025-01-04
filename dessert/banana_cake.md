@@ -1,13 +1,13 @@
 Ingredients
 ===========
-275 grams flour
-1 tsp salt (6 grams)
-2 tsp baking soda (11 grams)
-190 grams vegetable shortening
-400 grams sugar
-2 or 3 normal bananas (mashed)  (3: 360g)
-4 eggs
-115 grams chopped walnuts
+- 275 grams flour
+- 1 tsp salt (6 grams)
+- 2 tsp baking soda (11 grams)
+- 190 grams vegetable shortening
+- 400 grams sugar
+- 2 or 3 normal bananas (mashed)  (3: 360g)
+- 4 eggs
+- 115 grams chopped walnuts
 
 Instructions
 ============
