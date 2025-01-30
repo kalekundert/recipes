@@ -18,18 +18,18 @@ Ingredients
 - 100 g kalamata olives (optional, not tried before)
 
 - 6 sheets phyllo dough, thawed
-￼
+
 Directions
 ==========
-0. The night before: thaw the phyllo dough in the fridge.
+- The night before: thaw the phyllo dough in the fridge.
 
-1. Preheat the oven to 400°F with the rack in the lower-middle position.
+- Preheat the oven to 400°F with the rack in the lower-middle position.
 
-2. Brush a 9-inch glass pie plate (either deep-dish or standard 
-   size will work with this recipe) generously with olive oil and set on a 
-   parchment-lined rimmed baking sheet.
+- Brush a 9-inch glass pie plate (either deep-dish or standard size will work 
+  with this recipe) generously with olive oil and set on a parchment-lined 
+  rimmed baking sheet.
 
-3. Prepare the filling:
+- Prepare the filling:
 
   - In a large bowl, combine chopped greens, chopped herbs, 54 g (1/4 cup) 
     olive oil, salt, and black pepper. Massage together to gently wilt the 
@@ -46,7 +46,7 @@ Directions
 
   - Fold in the crumbled feta and optional tomatoes/olives
 
-4. Assemble the pie:
+- Assemble the pie:
 
   - Unroll thawed phyllo and keep it covered with a moist kitchen towel while 
     working.
@@ -68,8 +68,8 @@ Directions
 
   - Slice into portions using a serrated knife.
 
-5. Bake in preheated oven until golden brown, about 45 minutes. Allow to cool 
-   at least 15 minutes before serving.
+- Bake in preheated oven until golden brown, about 45 minutes. Allow to cool at 
+  least 15 minutes before serving.
 
 Reference
 =========
