@@ -14,7 +14,10 @@ Toppings:
 
 Directions
 ==========
-- Bake pie shell at 425°C for 10-12 min, until golden brown.  Let cool.
+- Par-bake pie shell at 425°C for 10-12 min, until golden brown.  Let cool.
+
+  - Poke holes in the bottom with a fork, and weigh down with pie weights or 
+    dried beans.
 
 - Combine sugar, water, cornstarch, and salt in a medium saucepan over medium 
   heat.  Stir to dissolve.
